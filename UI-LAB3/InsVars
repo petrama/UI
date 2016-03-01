@@ -1,0 +1,11 @@
+Grupa = Puhački, Na_Udar, Klavijature, Gudački, Žičani
+Podgrupa = Puhački_drveni, Puhački_metalni, Bubnjevi, Udaraljke  
+Velicina = mali, srednji, veliki
+Materijal = drvo, metal
+Broj_žica = 4, 6, 8
+Zvuk_Nastaje = udarac, trzaj, puhanje, gudanje, pritisak
+Udara_Povrsinu = da, ne
+Raspon_Oktava = mali, srednji, veliki
+Zvuk = rezak, tup, dubok, visok, zaobljen
+Oblik = trokutast, okrugli
+Instrument = Flauta, Oboa, Klarinet, Saksofon, Truba, Trombon, Timpan, Bočni_bubanj, Tenorski_bubanj, Cimbal, Tamtam, Trokut, Drveni_blok, Ksilofon, Mandolina, Gitara, Bas_gitara, Tamburica, Violina, Viola, Violončelo, Kontrabas, Klavir, Celesta, Orgulje
